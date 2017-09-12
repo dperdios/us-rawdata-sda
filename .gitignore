@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+.ipynb_checkpoints
+
+# Mac OS X
+.DS_Store
+
+# JetBrains
+.idea/
+
+# Datasets
+datasets/**/*.hdf5
+
+# Networks
+networks/*
+!networks/utils.py
+
+# Results
+results/*

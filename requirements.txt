@@ -1,0 +1,8 @@
+# tensorflow==1.2.1  # uncomment if you do not have a compatible GPU
+tensorflow-gpu==1.2.1  # comment if you do not have a compatible GPU
+numpy
+scipy
+matplotlib
+scikit-image
+h5py
+tqdm
