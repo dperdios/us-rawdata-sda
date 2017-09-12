@@ -11,9 +11,5 @@ __pycache__/
 # Datasets
 datasets/**/*.hdf5
 
-# Networks
-networks/*
-!networks/utils.py
-
 # Results
 results/*
